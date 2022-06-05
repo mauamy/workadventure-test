@@ -1,0 +1,11 @@
+*.swp
+/node_modules/
+dist/
+Dockerfile
+.dockerignore
+.htaccess
+starter/
+tests/
+Tuto/
+package.json
+yarn.lock
